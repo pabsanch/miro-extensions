@@ -1,4 +1,4 @@
-# Miro CSV to Mind Map App
+# csv-2-mindmap
 
 This app shows how to import data from a CSV file and create a mind map on a Miro board.
 
@@ -65,7 +65,7 @@ Watch the short video (48 seconds) below to gain a quick overview of using the a
 
 ```yaml
 # See https://developers.miro.com/docs/app-manifest on how to use this
-appName: CSV to Mindmap
+appName: csv-2-mindmap
 sdkVersion: SDK_V2
 sdkUri: http://localhost:3000
 scopes:
@@ -81,7 +81,7 @@ https://github.com/miroapp/app-examples/assets/10428517/1e6862de-8617-46ef-b265-
 
 5. Go to your developer team, and open your boards.
 6. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
-7. Search for your app `CSV to Mind Map` or whatever you chose to name it. Click on your app to use it, as shown in the video below. <b>In the video we search for a different app, but the process is the same regardless of the app.</b>
+7. Search for your app `csv-2-mindmap` or whatever you chose to name it. Click on your app to use it, as shown in the video below. <b>In the video we search for a different app, but the process is the same regardless of the app.</b>
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e785-43f9-a72e-fa5d82c7b019
 

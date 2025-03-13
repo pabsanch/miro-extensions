@@ -1,5 +1,5 @@
 {
-  "name": "miro-mindmap-importer",
+  "name": "csv-2-mindmap",
   "version": "0.1.0",
   "description": "Import data from CSV and create mind map on a Miro board",
   "keywords": [
@@ -28,8 +28,8 @@
     "@types/node": "^18.8.2",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
-    "@vitejs/plugin-react": "^2.2.0",
+    "@vitejs/plugin-react": "^4.3.4",
     "typescript": "4.8.4",
-    "vite": "3.2.8"
+    "vite": "^6.2.1"
   }
 }
